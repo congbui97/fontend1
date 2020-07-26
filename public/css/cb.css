@@ -1,0 +1,36 @@
+
+.navbar-expand-sm{
+    background: #002341;
+    color: #fffff3;
+}
+.navbar-nav{
+    margin: 0 auto;
+    
+    color: #fffff3;
+}
+
+.nav-item{
+    margin: 0 30px;
+}
+.container{
+    background-image: url(https://cdn.shopify.com/s/files/1/0538/1029/files/fastor4-cloudy.png?v=17512844056860882953);
+    
+}
+.row{
+    display: inline-block;
+    
+    
+    padding: 50px;
+    padding-left: 150px;
+}
+.nav-link :hover{
+    color: black;
+}
+.shop{
+    display: inline-block;
+    text-align: center;
+    background: #82b440;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
